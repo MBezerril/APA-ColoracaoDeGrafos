@@ -3,7 +3,7 @@
 
 
 vertice::vertice() {
-	cor = 0;
+	cor = -1;
 	status = 0;
 }
 
